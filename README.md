@@ -51,9 +51,9 @@ Project Structure
 bash
 timewise/
 ├── MyProgram.java
-└── README.md
-└── Assessment.java
-└── Assignment.java
-└── Test.java
-└── assessments.txt
+├── README.md
+├── Assessment.java
+├── Assignment.java
+├── Test.java
+├── assessments.txt
 └── password.txt
