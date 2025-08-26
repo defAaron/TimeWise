@@ -42,7 +42,7 @@ cd timewise
 Compile the Java program:
 
 bash
-javac Main.java
+javac MyProgram.java
 Run the program:
 
 bash
@@ -50,5 +50,10 @@ java Main
 Project Structure
 bash
 timewise/
-├── Main.java       # Main Java program containing all logic
-└── README.md       # Project documentation
+├── MyProgram.java
+└── README.md
+└── Assessment.java
+└── Assignment.java
+└── Test.java
+└── assessments.txt
+└── password.txt
