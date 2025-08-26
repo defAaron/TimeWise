@@ -10,12 +10,8 @@ TimeWise is a simple Java console application that helps students keep track of 
 - **Search Assessments:** Search for an assessment by name  
 - **List All Assessments:** Display all assessments in the format:  
 Assessment Name --> Weightage %
-
-markdown
 - **List Overdue Assessments:** Display overdue assessments in the format:  
 Assessment Name --> X days overdue
-
-markdown
 - **Change Completion Status:** Mark an assessment as complete or incomplete  
 
 ### 🖥️ User Interface
